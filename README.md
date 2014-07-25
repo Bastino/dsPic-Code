@@ -26,4 +26,5 @@ In this folder we will be coding the control of motors -- Stepper motors
 5. Other peripherals and help should be written inside this file
    file / HELP/ helpme.txt
    
+6. Use Gist to write code on.
    
